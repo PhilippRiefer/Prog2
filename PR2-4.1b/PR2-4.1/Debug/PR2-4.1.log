@@ -1,0 +1,4 @@
+﻿  Aufgabe4.1.c
+C:\Users\Admin\source\repos\PR2-4.1b\PR2-4.1\Aufgabe4.1.c(177,3): warning C4047: "==": Anzahl der Dereferenzierungen bei "unsigned int" und "void *" unterschiedlich
+C:\Users\Admin\source\repos\PR2-4.1b\PR2-4.1\Aufgabe4.1.c(223,29): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+  PR2-4.1.vcxproj -> C:\Users\Admin\source\repos\PR2-4.1b\Debug\PR2-4.1.exe
