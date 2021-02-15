@@ -1,0 +1,3 @@
+﻿  Quelle.c
+G:\PR2\PR2 Praktikum 3.1b\PR2 Praktikum 3.1b\Quelle.c(193,28): warning C4047: "=": Anzahl der Dereferenzierungen bei "char" und "char *" unterschiedlich
+  PR2 Praktikum 3.1b.vcxproj -> G:\PR2\PR2 Praktikum 3.1b\Debug\PR2 Praktikum 3.1b.exe
